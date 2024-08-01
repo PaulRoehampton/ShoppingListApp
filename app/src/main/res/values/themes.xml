@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.ShoppingList" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/light_orange</item>
+        <item name="colorPrimaryVariant">@color/apricot</item>
+        <item name="colorOnPrimary">@color/yellow_light</item>
+    </style>
+    <style name="AppTheme.ShoppingList" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Fullscreen theme for the main activity -->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

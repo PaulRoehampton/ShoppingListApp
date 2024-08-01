@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_orange">#FFDAB9</color>
+    <color name="apricot">#FBC4AB</color>
+    <color name="melon">#F8AD9D</color>
+    <color name="yellow_light">#FFF9C4</color>
+    <color name="spring_bud">#8A9EF01A</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
