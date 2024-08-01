@@ -1,7 +1,11 @@
 Shopping List App
-![shopping_list4.png]
+
+![shopping_list_github](https://github.com/user-attachments/assets/b38e7c11-22ad-4c95-8ba6-edf6f1f255fe)
+
+
 Description
 The Shopping List App is a simple, user-friendly mobile application designed to help users manage their shopping lists efficiently. Built with Kotlin for Android, this app allows users to create, edit, and organize their shopping items with ease.
+
 Features
 
 Add new items to your shopping list,
